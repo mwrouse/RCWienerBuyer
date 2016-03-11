@@ -9,9 +9,6 @@
 #include <String.au3>
 #include <Array.au3>
 
-Global $fancy = "https://fancy.com/things/"
-Global $thing
-
 Global $twitter = "https://twitter.com/"
 Global $account = "oscarmayer"
 

@@ -8,7 +8,7 @@ But being a student, I didn't really have the time to sit and monitor their Twit
 ---
 This program is actually version 3.0, previous versions use the Twitter API which I quickly realised was the wrong choice since they have a rate limit, and on Wednesday, Dec. 2nd, they had sold out in under 30 seconds. 
 
-So I went to [AutoIT](https://www.autoitscript.com/site/autoit/) to easily scrape their Twitter page (not using the Twitter API) and detect when they tweeted the Fancy link.
+So I went to [AutoIt](https://www.autoitscript.com/site/autoit/) to easily scrape their Twitter page (not using the Twitter API) and detect when they tweeted the Fancy link.
 
 On the very last day, this script bought me one! 
 ![Console Output on December 4th](https://raw.githubusercontent.com/mwrouse/RCWienerBuyer/master/result.png)

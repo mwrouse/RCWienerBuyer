@@ -11,7 +11,7 @@ This program is actually version 3.0, previous versions use the Twitter API whic
 So I went to AutoIT to easily scrape their Twitter page (not using the Twitter API) and detect when they tweeted the Fancy link.
 
 On the very last day, this script bought me one! 
-
+![Console Output on December 4th](https://raw.githubusercontent.com/mwrouse/RCWienerBuyer/master/result.png)
 
 ## Warning
 If you run this, and your Twitter account is setup to be able to quickly purchase stuff, I am not responsible for whatever items this script may or may not automatically buy.

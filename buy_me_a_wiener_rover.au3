@@ -100,7 +100,7 @@ Func Buy_RC_Wiener($id)
    For $btn in $btns
 	  ; Look for the Buy now button
 	  If ($btn.innerText == " Buy now " Or $btn.innerText == "Buy now") Then
-		 ; Click it once (to buy now), not you must have paymenet and shipping info saved on Twitter already
+		 ; Click it once (to buy now), note you must have payment and shipping info saved on Twitter already
 		 _IEAction($btn, "click")
 		 Sleep(500)
 
